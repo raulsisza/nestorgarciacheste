@@ -1,4 +1,4 @@
-### Hi there 👋
+### Buenaaas 👋
 <h1 align="center">Holaaa 👋, mi nombre es Néstor García</h1>
 <h3 align="center">Un estudiante y desarrollador de frontend.</h3>
 
